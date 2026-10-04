@@ -1,2 +1,3 @@
-# RISC-V-VM
-Higher scoped project than LC3 but now working with a more complex ISA. Will have more features than LC3.
+# RISC-V CPU
+
+This project will contain my RISC V CPU implementation and documentation. At first I would be implementing a sequential CPU and then I would advance to a pipelined version. 

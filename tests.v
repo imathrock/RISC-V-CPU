@@ -1,0 +1,5 @@
+module tests(A,B,X,out)
+
+
+
+endmodule
